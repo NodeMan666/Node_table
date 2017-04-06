@@ -1,7 +1,5 @@
 # toptal-localtable-api
 
-[ ![Codeship Status for localtable/toptal-localtable-api](https://codeship.com/projects/907d7420-139e-0134-ccee-1ec4d4a57c0e/status?branch=master)](https://codeship.com/projects/157561)
-
 
 ## Installation
 * `$ git clone https://github.com/localtable/toptal-localtable-api.git`
