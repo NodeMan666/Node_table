@@ -1,12 +1,9 @@
-# toptal-localtable-api
-
-
 ## Installation
-* `$ git clone https://github.com/localtable/toptal-localtable-api.git`
+* `$ git clone https://github.com/NodeMan666/Node_table.git`
   - Clone the backend repository to your local computer
-* `$ cd toptal-localtable-api`
+* `$ cd Node_table`
 * `$ npm install`
-  - All the dependencies and devDependencies in the package.json file will be installed. This will take several minutes.
+  - All the dependencies and devDependencies in the package.json file will be installed. This will take a few minutes.
 * `$ npm start`
 
 
